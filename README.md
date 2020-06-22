@@ -1,6 +1,6 @@
 # conceitos-nodejs
 
-2° desafio do bootcamp GoStack - Criar uma API  que irá permitir a criação, listagem, atualização e remoção dos repositórios do Github, e além disso permitir que os repositórios possam receber "likes"
+1° desafio do bootcamp GoStack - Criar uma API  que irá permitir a criação, listagem, atualização e remoção dos repositórios do Github, e além disso permitir que os repositórios possam receber "likes"
 
 Essa é uma aplicação básica para fixar os conceitos de uma API http utilizando o express, as os dados gerados ficam armazenados localmente em um array e a cada alteração esse array é zerado.
 
